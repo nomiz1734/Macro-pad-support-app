@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\antat\\appCs\\FunctionSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\discordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\discordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\discordconfigwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\discordconfigwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\discordconfigwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\discordconfigwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\createmacrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\createmacrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\createmacrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\createmacrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\toastwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\toastwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|d:\\antat\\appcs\\functionset\\functionset\\toastwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D365E39B-2ABB-462E-AB0C-EC68C62E55C4}|FunctionSet\\FunctionSet.csproj|solutionrelative:functionset\\toastwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscordHelper.cs",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\DiscordHelper.cs",
+              "RelativeDocumentMoniker": "FunctionSet\\DiscordHelper.cs",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\DiscordHelper.cs",
+              "RelativeToolTip": "FunctionSet\\DiscordHelper.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:42:43.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscordConfigWindow.xaml.cs",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\DiscordConfigWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FunctionSet\\DiscordConfigWindow.xaml.cs",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\DiscordConfigWindow.xaml.cs",
+              "RelativeToolTip": "FunctionSet\\DiscordConfigWindow.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADgv1IAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:41:55.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FunctionSet\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FunctionSet\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAgwKYBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:36:01.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMacroWindow.xaml",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\CreateMacroWindow.xaml",
+              "RelativeDocumentMoniker": "FunctionSet\\CreateMacroWindow.xaml",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\CreateMacroWindow.xaml",
+              "RelativeToolTip": "FunctionSet\\CreateMacroWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-23T06:07:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscordConfigWindow.xaml",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\DiscordConfigWindow.xaml",
+              "RelativeDocumentMoniker": "FunctionSet\\DiscordConfigWindow.xaml",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\DiscordConfigWindow.xaml",
+              "RelativeToolTip": "FunctionSet\\DiscordConfigWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-23T08:41:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FunctionSet\\MainWindow.xaml",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\MainWindow.xaml",
+              "RelativeToolTip": "FunctionSet\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T20:36:02.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateMacroWindow.xaml.cs",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\CreateMacroWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FunctionSet\\CreateMacroWindow.xaml.cs",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\CreateMacroWindow.xaml.cs",
+              "RelativeToolTip": "FunctionSet\\CreateMacroWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:08:26.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToastWindow.xaml",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\ToastWindow.xaml",
+              "RelativeDocumentMoniker": "FunctionSet\\ToastWindow.xaml",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\ToastWindow.xaml",
+              "RelativeToolTip": "FunctionSet\\ToastWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-23T07:10:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToastWindow.xaml.cs",
+              "DocumentMoniker": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\ToastWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FunctionSet\\ToastWindow.xaml.cs",
+              "ToolTip": "D:\\antat\\appCs\\FunctionSet\\FunctionSet\\ToastWindow.xaml.cs",
+              "RelativeToolTip": "FunctionSet\\ToastWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T07:11:22.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

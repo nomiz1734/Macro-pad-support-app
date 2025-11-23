@@ -1,0 +1,32 @@
+﻿<Window x:Class="FunctionSet.ToastWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ToastWindow" Height="70" Width="250"
+        WindowStyle="None" ResizeMode="NoResize"
+        AllowsTransparency="True" Background="Transparent"
+        ShowInTaskbar="False" Topmost="True" Focusable="False">
+
+    <Border Background="#1F1F1F" CornerRadius="8" BorderBrush="#333" BorderThickness="1">
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="10" ShadowDepth="2" Opacity="0.5"/>
+        </Border.Effect>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" Background="#0078D7" Width="30" Height="30" CornerRadius="15">
+                <TextBlock Text="i" Foreground="White" FontWeight="Bold" 
+                           HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+            </Border>
+
+            <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="0,0,10,0">
+                <TextBlock Text="Macro Pad" Foreground="#AAAAAA" FontSize="11"/>
+                <TextBlock x:Name="txtMessage" Text="Đã chuyển sang Mode 1" 
+                           Foreground="White" FontWeight="SemiBold" FontSize="14" TextTrimming="CharacterEllipsis"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

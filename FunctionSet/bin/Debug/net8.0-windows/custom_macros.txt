@@ -1,0 +1,5 @@
+241|Đổi nguồn phát|KEY|^+s
+242|mute on|DISCORD|MUTE_ON
+243|muete off|DISCORD|MUTE_OFF
+244|loa toggle|DISCORD|DEAF_TOGGLE
+245|mic toggle|DISCORD|MUTE_TOGGLE
